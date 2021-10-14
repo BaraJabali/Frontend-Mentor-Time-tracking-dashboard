@@ -62,6 +62,7 @@
 
 #times>ul>li{
   margin-top: 10px;
+  
 }
 /*
 
@@ -127,4 +128,9 @@
 .hours{
     font-size:40px;
     margin-top: 30px;
+}
+
+
+.timesInfo{
+    background-color: inherit;
 }
